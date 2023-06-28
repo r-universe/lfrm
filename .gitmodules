@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "eBsc"]
 	path = eBsc
 	url = https://github.com/lfrm/ebsc-r-package
-	shallow = true
-	registered = true
 [submodule "funpca"]
 	path = funpca
 	url = https://github.com/cran/funpca
-	shallow = true
-	registered = true
